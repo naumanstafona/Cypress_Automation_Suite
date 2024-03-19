@@ -1,0 +1,4 @@
+/node_modules
+cypress/screenshots/+Create_ALPHA/TC_CTALP7.cy.js/Test Login with Twitter -- Should sign in with twitter successfully (failed).png
+cypress/screenshots/2-advanced-examples/misc.cy.js/my-image.png
+cypress/screenshots/Link_Wallet/Login_With_Twitter_and_Connect_Wallet_Manually.cy.js/Test Login with Twitter and Connect Wallet -- Should sign in with twitter and connect wallet manually and verify that wallet is successfully (failed).png
